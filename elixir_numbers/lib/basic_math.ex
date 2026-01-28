@@ -11,5 +11,7 @@ defmodule BasicMath do
     def divide(dividend, divisor) do
         dividend / divisor
     end
-    
+    def round_up(value) do
+        Float.ceil(value,2)
+    end
 end
