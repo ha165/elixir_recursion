@@ -8,4 +8,8 @@ defmodule BasicMath do
     def multiply(multiplicand, multiplier) do
         multiplicand * multiplier
     end
+    def divide(dividend, divisor) do
+        dividend / divisor
+    end
+    
 end
