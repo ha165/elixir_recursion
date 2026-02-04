@@ -8,8 +8,6 @@ A simple Elixir project that demonstrates various recursive functions such as ca
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
